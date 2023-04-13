@@ -1,0 +1,12 @@
+body{
+    display: grid;
+    grid-gap:  0.5rem
+}
+.titulo{
+    background-color: #5d1e63;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+}
+.img{
+   width: 15%;
+}
