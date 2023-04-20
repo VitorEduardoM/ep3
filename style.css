@@ -1,12 +1,28 @@
 body{
     display: grid;
-    grid-gap:  0.5rem
+    grid-gap:  0.5rem;
+    
 }
-.titulo{
+.tt{
     background-color: #5d1e63;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 200%;
+   
+
 }
 .img{
    width: 15%;
+}
+.mei{
+    font-size: 100%;
+    text-align: center;
+    border: 3px solid black;
+}
+h1{
+    color: rgb(30, 104, 165);
+    font-variant: small-caps;
+    
+} 
+.ff{
+    background-color: #5d1e63;
 }
