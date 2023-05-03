@@ -1,26 +1,34 @@
 body{
     display: grid;
     grid-gap:  0.5rem;
-    
-}
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}   
 .tt{
-    background-color: #5d1e63;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #5d1e63;  
     font-size: 200%;
    
 
 }
 .img{
    width: 15%;
+  transition: 4s;
 }
+.img:hover{
+    width:  20%;
+
+ }
+
 .mei{
     font-size: 100%;
     text-align: center;
-    border: 3px solid black;
+    border: 4px solid rgb(0, 0, 0);
+    
 }
 h1{
     color: rgb(30, 104, 165);
     font-variant: small-caps;
+
     
 } 
 .ff{
@@ -28,6 +36,7 @@ h1{
 }
 .roboimg{
     width: 20%;
+    
 }
 .oc{
     width: 20%;
